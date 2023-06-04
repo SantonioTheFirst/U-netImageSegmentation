@@ -8,11 +8,11 @@ This project allows you to segment ships on a [satellite images](https://www.kag
 
 ## Description
 
-`ShipsSegmentation.ipynb` contains all data loading and preprocessing steps, EDA, building a neural net, evaluating peromance, etc.
-`model.py` defines U-net.
-`train.py` contains code to train the model on **cpu** (using tensorflow-cpu package to reduce slug size).
-`inference.py` contains code to inference the model.
-`main.py` contains code to make a toy streamlit web application to deal with the model.
+- `ShipsSegmentation.ipynb` contains all data loading and preprocessing steps, EDA, building a neural net, evaluating peromance, etc.
+- `model.py` defines U-net.
+- `train.py` contains code to train the model on **cpu** (using tensorflow-cpu package to reduce slug size).
+- `inference.py` contains code to inference the model.
+- `main.py` contains code to make a toy streamlit web application to deal with the model.
 
 ## Install and run
 
