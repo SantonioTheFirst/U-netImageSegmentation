@@ -14,6 +14,8 @@ This project allows you to segment ships on a [satellite images](https://www.kag
 - `inference.py` contains code to inference the model.
 - `main.py` contains code to make a toy streamlit web application to deal with the model.
 
+Preprocessed data you can find [here](https://drive.google.com/file/d/1tAKNPYy0_CM8RBzaSDX8s1pHeiiO6Fos/view?usp=sharing)
+
 ## Install and run
 
 You can just clone this repository, install all requirements from `requirements.txt` and run a command `python3 inference.py -i input.jpg -o output.jpg` to segment an image with ships. Or you can run a web application using the command `streamlit run main.py`
