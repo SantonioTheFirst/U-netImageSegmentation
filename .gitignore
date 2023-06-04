@@ -1,3 +1,10 @@
+data.zip
+train
+test
+train.csv
+weights/model_sm.h5
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
